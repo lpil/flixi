@@ -1,6 +1,6 @@
 # flixi
 
-Use the fixi.js hypermedia library with Lustre!
+Use the [fixi.js hypermedia library](https://fixiproject.org/fixi.html) with [Lustre](https://hexdocs.pm/lustre)!
 
 [![Package Version](https://img.shields.io/hexpm/v/flixi)](https://hex.pm/packages/flixi)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/flixi/)
